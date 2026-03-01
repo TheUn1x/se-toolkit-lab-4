@@ -1,3 +1,4 @@
+// Front-end for Learning Management Service
 import { useState, useEffect, FormEvent } from 'react'
 import './App.css'
 
